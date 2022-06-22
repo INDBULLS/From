@@ -13,6 +13,7 @@ body{
   overflow: hidden;
   min-width: 584px;
   background: url("bg.png"), -webkit-linear-gradient(bottom,#006400,#fff, #ff9933);
+  overflow: auto;
 }
 ::selection{
   color: #fff;
@@ -24,7 +25,7 @@ body{
   text-align: center;
   border-radius: 5px;
   padding: 50px 35px 10px 35px;
-  zoom: 2;
+  min-zoom: 2x;
 }
 .container header{
   font-size: 35px;
