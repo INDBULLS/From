@@ -11,6 +11,7 @@ body{
   justify-content: center;
   min-height: 100vh;
   overflow: hidden;
+  min-width: 584px;
   background: url("bg.png"), -webkit-linear-gradient(bottom,#006400,#fff, #ff9933);
 }
 ::selection{
@@ -184,7 +185,7 @@ form .page .btns button.next{
 
 @media (max-width:584px){
   .container{
-    zoom: 2;
+    zoom: 3;
   }
 }
 
