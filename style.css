@@ -10,7 +10,7 @@ body{
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  overflow: hidden;
+  overflow: auto;
   min-width: 584px;
   background: url("bg.png"), -webkit-linear-gradient(bottom,#006400,#fff, #ff9933);
   overflow: auto;
@@ -25,7 +25,7 @@ body{
   text-align: center;
   border-radius: 5px;
   padding: 50px 35px 10px 35px;
-  zoom: 2x;
+  zoom: 2;
 }
 .container header{
   font-size: 35px;
