@@ -190,6 +190,13 @@ form .page .btns button.next{
   
 
 }
+@media (max-width:414px){
+  .container{
+    zoom: 2;
+  }
+  
+
+}
 
 .field .field li{
   padding: 3px 2px 2px ;
