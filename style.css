@@ -187,15 +187,7 @@ form .page .btns button.next{
   .container{
     zoom: 3;
   }
-  body{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 900px;
-    overflow: hidden;
-    min-width: 584px;
-    background: url("bg.png"), -webkit-linear-gradient(bottom,#006400,#fff, #ff9933);
-  }
+  
 
 }
 
